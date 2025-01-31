@@ -20,7 +20,7 @@
 
 
 let nama = "Iqbal", 
-peran = "Tabib";
+    peran = "Tabib";
 
 if(nama ==""){
     console.log("nama wajib diisi")
